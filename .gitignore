@@ -1,0 +1,12 @@
+# 영문 원본·빌드 결과물(저작권) — 배포는 Releases로
+orig/
+Zorbus.exe
+Zorbus.zbs
+Zorbus_한글패치/
+*.zip
+# 작업 중 추출한 원문
+**/src.json
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc

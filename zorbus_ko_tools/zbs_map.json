@@ -1,0 +1,111 @@
+{
+ "it_": {
+  "first": 103,
+  "stride": 5140,
+  "count": 477,
+  "fields": [
+   {
+    "off": 0,
+    "maxlen": 30,
+    "cap": 256
+   },
+   {
+    "off": 5088,
+    "maxlen": 34,
+    "cap": 52
+   }
+  ]
+ },
+ "be_": {
+  "first": 2792091,
+  "stride": 25336,
+  "count": 509,
+  "fields": [
+   {
+    "off": 0,
+    "maxlen": 34,
+    "cap": 41
+   },
+   {
+    "off": 41,
+    "maxlen": 24,
+    "cap": 31
+   },
+   {
+    "off": 72,
+    "maxlen": 30,
+    "cap": 256
+   }
+  ]
+ },
+ "co_": {
+  "first": 16064171,
+  "stride": 42292,
+  "count": 340,
+  "fields": [
+   {
+    "off": 0,
+    "maxlen": 35,
+    "cap": 256
+   }
+  ]
+ },
+ "sp_": {
+  "first": 31243259,
+  "stride": 4812,
+  "count": 1201,
+  "fields": [
+   {
+    "off": 0,
+    "maxlen": 7,
+    "cap": 256
+   }
+  ]
+ },
+ "va_": {
+  "first": 35169851,
+  "stride": 4812,
+  "count": 385,
+  "fields": [
+   {
+    "off": 0,
+    "maxlen": 7,
+    "cap": 256
+   }
+  ]
+ },
+ "ta_": {
+  "first": 2446743,
+  "stride": 1908,
+  "count": 182,
+  "fields": [
+   {
+    "off": 0,
+    "maxlen": 34,
+    "cap": 41
+   },
+   {
+    "off": 41,
+    "maxlen": 29,
+    "cap": 256
+   }
+  ]
+ },
+ "mt_": {
+  "first": 2595567,
+  "stride": 1908,
+  "count": 104,
+  "fields": [
+   {
+    "off": 0,
+    "maxlen": 34,
+    "cap": 41
+   },
+   {
+    "off": 41,
+    "maxlen": 18,
+    "cap": 256
+   }
+  ]
+ }
+}
